@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/126829881?v=4" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://avatars.githubusercontent.com/u/126829881?v=4" border-radius="10px" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
